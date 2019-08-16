@@ -1,0 +1,3 @@
+﻿import sys
+sys.api_version
+sys.version
